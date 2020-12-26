@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_more_pressed.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_more_pressed.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_gps_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/gps_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_line.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_line.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_user_level.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/user_level.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_button_selector.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_button_selector.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_visible_current.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_visible_current.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_button_selector_left.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_button_selector_left.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-xhdpi_loginback_shape.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-xhdpi/loginback_shape.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_qiehuan.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/qiehuan.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_button_font.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_button_font.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/xml_pref_data_sync.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_task.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/task.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/xml_pref_notification.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_region.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_region.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xhdpi_gps_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xhdpi/gps_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_red.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/status_red.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_shape_round_yellow.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/shape_round_yellow.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_more_current.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_more_current.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_btn_select_current.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/btn_select_current.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_shape_btn_cancle_dialog_texttag.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/shape_btn_cancle_dialog_texttag.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_callout_gps.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/callout_gps.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_theme.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_theme.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_btn_edit_current.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/btn_edit_current.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_edittext_normal.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_edittext_normal.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_selector_bg_cancle_texttag.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/selector_bg_cancle_texttag.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_button_font_focus.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_button_font_focus.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_popview_detailinfo.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/popview_detailinfo.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_poi_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxxhdpi/poi_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_user.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/user.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_text.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_text.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_weight_dialog_tip.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/weight_dialog_tip.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_green.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/green.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_gps_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxxhdpi/gps_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/xml_pref_general.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_password.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/password.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_edit_current.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_edit_current.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_shape_bg_spinner_layerstyle.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/shape_bg_spinner_layerstyle.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_button_selector_right.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_button_selector_right.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_weight_dialog_alert.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/weight_dialog_alert.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_btn_edit_pressed.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/btn_edit_pressed.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_poi_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/poi_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_shape_btn_dialog_texttag.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/shape_btn_dialog_texttag.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_slect_theme.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_slect_theme.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_image_layerstyle.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/image_layerstyle.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_gps.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/gps.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_setdown.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/setdown.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_dialog_layout.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_visible_pressed.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_visible_pressed.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_image_down.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/image_down.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/xml_pref_headers.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_btn_more.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/btn_more.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-xhdpi_login_out_button_shape.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-xhdpi/login_out_button_shape.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_poi_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxhdpi/poi_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_high_opinion_dialog_layout.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/high_opinion_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_image_up.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/image_up.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_message_dialog_tips.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/message_dialog_tips.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-xhdpi_task_detail_button_shape.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-xhdpi/task_detail_button_shape.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_shape_btn_pressed_dialog_texttag.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/shape_btn_pressed_dialog_texttag.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-xhdpi_login_user_shape.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-xhdpi/login_user_shape.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_splashback.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/splashback.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_user_position.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/user_position.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_dialog_focus_right.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_dialog_focus_right.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-xhdpi_splashback.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-xhdpi/splashback.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_shape_btn_enabled_false.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/shape_btn_enabled_false.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_selector_bg_dialog_texttag.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/selector_bg_dialog_texttag.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_recycle_item.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/recycle_item.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_callout_poi.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/callout_poi.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-v21_shape_btn_cancle_pressed_dialog_texttag.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-v21/shape_btn_cancle_pressed_dialog_texttag.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_image_appoint.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/image_appoint.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_layers.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/layers.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_fragment_my.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/fragment_my.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_ic_sync_black_24dp.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_activity_task_detail.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/activity_task_detail.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_user_me.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/user_me.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_btn_location_selector.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/btn_location_selector.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_image_rename.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/image_rename.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_ic_info_black_24dp.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_fragment_task.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/fragment_task.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_edit_theme.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_edit_theme.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_shape_round_red.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/shape_round_red.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_pop_layersetting.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/pop_layersetting.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_button_background.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_button_background.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_user_number.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/user_number.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_close.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/close.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-xhdpi_login_login_button_shape.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-xhdpi/login_login_button_shape.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_dialog_layerstyle_region.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/dialog_layerstyle_region.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_rename_dialog.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/rename_dialog.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_network.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_network.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_dialog_focus_single.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_dialog_focus_single.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_navi.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/navi.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xhdpi_poi_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xhdpi/poi_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_shape_round_green.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/shape_round_green.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_message.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/message.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_my.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/my.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_layerstyle_spinner_item.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/layerstyle_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_gps_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-xxhdpi/gps_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_home.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_red.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/red.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_weight_dialog_focus_left.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/weight_dialog_focus_left.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_weight_dialog_confirm.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/weight_dialog_confirm.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_shape_round_textview.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/shape_round_textview.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_toolbar_selector.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/toolbar_selector.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_weight_dialog_prompt.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/weight_dialog_prompt.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_activity_layer.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/activity_layer.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_edit_pressed.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/btn_edit_pressed.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_cad.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_cad.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable-hdpi_layer_point.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable-hdpi/layer_point.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_btn_select_pressed.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/btn_select_pressed.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/layout_item_layer.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/layout/item_layer.xml"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_message_new.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/message_new.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo.png.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/build/intermediates/res/merged/debug/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/asdc/Documents/project/gitTree/AndroidMapGIS/MapGIS/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "staffingId": "0a4835da6453475e9e1483a0cf33e6a9",
+  "armyId": "155d78c7c7694c1fa3c4a0ca985acb02",
+  "staffingName": "张三",
+  "staffingCode": "101",
+  "pictureUrl": "/file/2020/10/9/_31714588037100.gif",
+  "jobLevelName": "班长",
+  "armyData": {
+    "armyId": "155d78c7c7694c1fa3c4a0ca985acb02",
+    "armyDesignation": "新疆总队",
+    "armyDesignationId": "1010101"
+  }
+}
