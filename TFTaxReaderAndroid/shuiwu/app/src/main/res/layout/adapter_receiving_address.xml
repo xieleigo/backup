@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/shopping_order_address_layout"
+        android:layout_width="394dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_title"
+        android:layout_marginBottom="5dp"
+        android:background="@color/ffffff"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/shopping_order_address_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/button_red_mark" />
+
+        <TextView
+            android:id="@+id/shopping_order_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_toRightOf="@+id/shopping_order_address_image"
+            android:text="张某莫"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/shopping_order_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_toRightOf="@+id/shopping_order_name"
+            android:text="18208987876"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/mrderss_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/shopping_order_phone"
+            android:background="@drawable/add_billing_red"
+            android:padding="5dp"
+            android:text="默认地址"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/colorAccent"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/shopping_order_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/shopping_order_name"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="60dp"
+            android:layout_toRightOf="@+id/shopping_order_address_image"
+            android:text="会计案例可大了答复哦ID福利卡朵dadsfasdfsd理"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/itme_receiving_address_more"
+            android:layout_width="35dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shengluohao" />
+    </RelativeLayout>
+
+</LinearLayout>

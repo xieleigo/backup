@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/layout_title"
+        layout="@layout/layout_title" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/billing_tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_title"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/Button_login"
+        app:tabMaxWidth="0dp"
+        android:background="@color/ffffff"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="#262626"
+        app:tabTextColor="#262626" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/billing_tabLayout"
+        android:background="@color/background_gray" />
+
+    <FrameLayout
+        android:id="@+id/fragmet_billing_info_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/billing_tabLayout"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="60dp" />
+
+    <Button
+        android:id="@+id/add_billing_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:text="+添加开票信息"
+        android:textSize="18sp"
+        android:textColor="@color/ffffff" />
+</RelativeLayout>

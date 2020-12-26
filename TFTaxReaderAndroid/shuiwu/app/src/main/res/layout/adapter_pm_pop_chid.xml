@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/pm_pop_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ffffff">
+
+        <TextView
+            android:id="@+id/pm_pop_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/phb_image"
+            android:enabled="true"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:ellipsize="end"
+            android:text="ddd"
+            android:textColor="@color/black" />
+
+    </RelativeLayout>
+</RelativeLayout>

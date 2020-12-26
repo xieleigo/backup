@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/num_itme_collectfagment_articlefragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1."
+            android:textColor="@color/Button_login" />
+
+
+        <TextView
+            android:id="@+id/name_itme_collectfagment_articlefragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/num_itme_collectfagment_articlefragment"
+            android:enabled="true"
+            android:maxLines="1"
+            android:textSize="16sp"
+            android:text="新形势下研究税务asdfasdfasdf"
+            android:textColor="@color/Button_login" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name_itme_collectfagment_articlefragment"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/author_itme_collectfagment_articlefragment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="10dp"
+                android:text="徐汇" />
+
+            <TextView
+                android:id="@+id/author_type_itme_collectfagment_articlefragment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:layout_toLeftOf="@+id/author_num_itme_collectfagment_articlefragment"
+                android:text="中国税务杂志社" />
+
+            <TextView
+                android:id="@+id/author_num_itme_collectfagment_articlefragment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="2020年09期" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/text_gray" />
+</LinearLayout>

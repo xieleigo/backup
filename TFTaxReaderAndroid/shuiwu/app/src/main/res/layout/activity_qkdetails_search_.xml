@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/layout_title"
+        layout="@layout/layout_title" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/year_recyclerview"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_title" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/year_details_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout_title"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/year_recyclerview" />
+
+</RelativeLayout>

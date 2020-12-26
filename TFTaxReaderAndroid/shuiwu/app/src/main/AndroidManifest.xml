@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.dcloud.H5E4CA812">
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/taxmagread"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_config"
+        android:roundIcon="@drawable/taxmagread"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".view.activity.XMainActivity"
+            android:label="@string/title_activity_x_main"></activity>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name=".view.activity.SplashActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme.Launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.LoginActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.HomePageFragmentNewPeriodicalMoreActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.HomepagerJournalDetails"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.RegisterActvity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ForgetPasswordActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.SetPasswordActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.CallMeActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.UpdatePasswordActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.MyAccountActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.BindActivationCodes"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.EssentialInformationActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.BillingInformation"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.AddBillingInformationActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.BillingInformationInfoActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.BillingInformationInfoImageActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ShoppingCartConfirmOrderActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ReceivingAddressActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ReceivingAddressInfoActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.AllOrderActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.AllOrderCopyJHMActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.SearchArticleActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.BindActivationCodeSuccess"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.InquiryMoreActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ArticleMoreActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.TJQKMoreActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.InquiryInfoActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.QKDetailsSearchActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ZXDetailsAcitvity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.QiKanDetailsAcitvity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ReadPDFActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.OrderDetailActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.PaySuccessActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.ImageActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.activity.AdvancedSearchActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/MyTransparent" />
+        <activity
+            android:name=".view.activity.SearchGJArticleActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="wx8592574799e9e9ba" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:taskAffinity="net.sourceforge.simcpux"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+
+</manifest>

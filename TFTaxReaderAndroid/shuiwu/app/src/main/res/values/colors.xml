@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ffffff">#ffffff</color>
+    <color name="Button_login">#4A5CEF</color>
+    <color name="CollectFragment_buttont_Text">#528Bf2</color>
+    <color name="Button_register">#D8DbFF</color>
+    <color name="title_edittext">#D8DbFF00</color>
+    <color name="qqtopview">#F0F0F3</color>
+    <color name="background_gray">#f0f0f0</color>
+    <color name="background_grays">#A0A0A0</color>
+    <color name="black">#333333</color>
+    <color name="addBillingInfotext">#E90D00</color>
+    <color name="text_gray">#BEBEBE</color>
+    <color name="text_success">#398F20</color>
+    <color name="search_but">#701ab8</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray_64">#646464</color>
+</resources>

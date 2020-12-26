@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ffffff"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            layout="@layout/layout_title"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/qikan_detail_title"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/qqtopview">
+
+            <ImageButton
+                android:id="@+id/layout_back_but"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:background="@null"
+                android:src="@drawable/backgrey" />
+
+
+            <ImageView
+                android:id="@+id/scimage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/dy_button_image"
+                android:background="@drawable/qksc01" />
+
+            <ImageView
+                android:id="@+id/dy_button_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/fenxiang"
+                android:background="@drawable/qkdy01" />
+
+            <ImageView
+                android:id="@+id/fenxiang"
+                android:layout_width="23dp"
+                android:layout_height="31dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/down"
+                android:background="@drawable/fenxiang" />
+
+            <ImageView
+                android:id="@+id/down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/qkxz01"
+                android:visibility="gone" />
+
+
+        </RelativeLayout>
+
+
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/qikan_detail_scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/qikan_detail_title"
+            android:background="@color/ffffff"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:scrollbars="none">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/title_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:background="@color/ffffff"
+                    android:lineSpacingExtra="8dp"
+                    android:lineSpacingMultiplier="1"
+                    android:padding="10dp"
+                    android:text="帮助企业进行利改税第二步的改革"
+                    android:textColor="@color/black"
+                    android:textIsSelectable="false"
+                    android:textSize="18sp"
+                    android:typeface="monospace" />
+
+                <TextView
+                    android:id="@+id/num"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/title_text"
+                    android:background="@color/ffffff"
+                    android:text="《税务研究》2020年 第2期"
+                    android:textColor="@color/text_gray"
+                    android:textIsSelectable="false"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/author"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/num"
+                    android:background="@color/ffffff"
+                    android:text="作者王宇身"
+                    android:textColor="@color/text_gray"
+                    android:textIsSelectable="false"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/author_gs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/author"
+                    android:background="@color/ffffff"
+                    android:text="作者王宇身"
+                    android:textColor="@color/text_gray"
+                    android:textIsSelectable="false"
+                    android:textSize="14sp" />
+
+                <LinearLayout
+                    android:id="@+id/zaiyao_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/author_gs"
+                    android:layout_marginTop="10dp"
+                    android:background="#33D8DbFF"
+                    android:orientation="vertical"
+                    android:padding="5dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="内容摘要："
+                        android:textColor="@color/black"
+                        android:typeface="monospace" />
+
+                    <TextView
+                        android:id="@+id/zhaiyao"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="  老师的会计法拉数据快递费拉等级法拉第健身房拉科技的说法垃圾袋放辣椒水电费蓝卡队健身房拉宽带缴费拉卡奥斯卡的风景安联大厦福利"
+                        android:textColor="@color/black"
+                        android:textSize="16sp"
+                        android:typeface="monospace" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/zaiyao_layout"
+                    android:layout_marginBottom="40dp"
+                    android:background="@color/ffffff"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textIsSelectable="false"
+                    android:textSize="16sp" />
+
+                <Button
+                    android:id="@+id/ydqw_but"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_below="@+id/text"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="40dp"
+                    android:background="@drawable/login_login_button_shape"
+                    android:text="阅读全文"
+                    android:textColor="@color/ffffff"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/shangyipain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_below="@+id/ydqw_but"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/qk_top_button_shape"
+                    android:text="上一篇"
+                    android:textColor="@color/CollectFragment_buttont_Text"
+                    android:textSize="16sp"
+                    android:visibility="visible" />
+
+                <Button
+                    android:id="@+id/xiayipian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_toRightOf="@+id/shangyipain"
+                    android:background="@drawable/qk_top_button_shape"
+                    android:text="下一篇"
+                    android:textColor="@color/CollectFragment_buttont_Text"
+                    android:textSize="16sp"
+                    android:visibility="visible" />
+
+                <Button
+                    android:id="@+id/huidaodingbu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/qk_top_button_shape"
+                    android:text="回到顶部"
+                    android:textColor="@color/CollectFragment_buttont_Text"
+                    android:textSize="16sp"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+        </ScrollView>
+
+
+        <LinearLayout
+            android:id="@+id/buttgrop"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/background_gray"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/shangyiye"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_shapes"
+                android:text="上一页"
+                android:textColor="@color/ffffff" />
+
+            <Button
+                android:id="@+id/homepage"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="3dp"
+                android:layout_weight="1"
+                android:background="@null"
+                android:text="首页"
+                android:textColor="@color/Button_login" />
+
+            <Button
+                android:id="@+id/lastpage"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="3dp"
+                android:layout_weight="1"
+                android:background="@null"
+                android:text="末页"
+                android:textColor="@color/Button_login" />
+
+            <Button
+                android:id="@+id/nextpage"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_shapes"
+                android:text="下一页"
+                android:textColor="@color/ffffff" />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

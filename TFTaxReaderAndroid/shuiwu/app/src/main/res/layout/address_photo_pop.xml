@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/address_photo_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="200dp">
+
+        <Button
+            android:id="@+id/but_collect_fragment_title1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/popwin_shape"
+            android:text="国内" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/but_collect_fragment_title2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/popwin_shape"
+            android:text="国外" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_tab_bottom_img"
+        android:layout_width="wrap_content"
+        android:layout_height="3dp"
+        android:layout_below="@+id/address_photo_layout"
+        android:background="@color/ffffff"
+        android:scaleType="matrix"
+        android:src="@drawable/zgsw" />
+
+    <LinearLayout
+        android:id="@+id/apvAddress_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/iv_tab_bottom_img"
+        android:background="@color/ffffff">
+
+        <io.dcloud.H5E4CA812.util.addresspickerlib.AddressPickerView
+            android:id="@+id/apvAddress"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </io.dcloud.H5E4CA812.util.addresspickerlib.AddressPickerView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/itemTvTitle_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/iv_tab_bottom_img"
+        android:background="@color/ffffff"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/itemTvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:paddingLeft="15dp"
+            android:paddingTop="13dp"
+            android:paddingBottom="13dp"
+            android:text="国外"
+            android:textColor="#262626"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+</RelativeLayout>

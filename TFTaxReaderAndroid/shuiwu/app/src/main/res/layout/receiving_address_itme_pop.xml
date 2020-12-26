@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shoppoing_dialog_shape"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/receiving_address_pop_seting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:text="默认设置"
+                android:textColor="@color/Button_login"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/background_gray" />
+
+            <TextView
+                android:id="@+id/receiving_address_pop_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:text="编辑"
+                android:textColor="@color/Button_login"
+                android:textSize="20sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/background_gray" />
+
+            <TextView
+                android:id="@+id/receiving_address_pop_delet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:text="删除"
+                android:textColor="@color/Button_login"
+                android:textSize="20sp" />
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/receiving_address_pop_exte"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/shoppoing_dialog_shape"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="15dp"
+            android:text="取消"
+            android:textColor="@color/Button_login"
+            android:textSize="20sp" />
+    </LinearLayout>
+</RelativeLayout>

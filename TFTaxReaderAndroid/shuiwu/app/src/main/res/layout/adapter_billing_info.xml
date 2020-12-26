@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/ffffff">
+
+    <io.dcloud.H5E4CA812.view.widget.listmovedeletbut.SwipeLayout
+        android:id="@+id/swipelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <include layout="@layout/adapter_billing_itme_all" />
+
+        <include layout="@layout/layout_collectfragment_article_delete" />
+
+    </io.dcloud.H5E4CA812.view.widget.listmovedeletbut.SwipeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

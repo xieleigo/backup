@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@android:color/white"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/qqtopview" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:id="@+id/new_periodical_laouts"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp">
+
+            <ImageView
+                android:id="@+id/image_itme_collectfagment_preriodicalfragment"
+                android:layout_width="80dp"
+                android:layout_height="100dp"
+                android:src="@drawable/zgsw" />
+
+            <ImageView
+                android:id="@+id/image_free"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/syfree" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/name_itme_collectfagment_preriodicalfragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/new_periodical_laouts"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="中国税务"
+            android:textColor="@color/Button_login"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/new_periodical_laout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name_itme_collectfagment_preriodicalfragment"
+            android:layout_toRightOf="@+id/new_periodical_laouts"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="第132期werwwer刊"
+            android:textColor="@color/text_gray"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/info1_itme_collectfagment_preriodicalfragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/new_periodical_laout"
+            android:layout_toRightOf="@+id/new_periodical_laouts"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="·第132期w刊"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/info2_itme_collectfagment_preriodicalfragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/info1_itme_collectfagment_preriodicalfragment"
+            android:layout_toRightOf="@+id/new_periodical_laouts"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="·第132期wer刊"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/info3_itme_collectfagment_preriodicalfragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/info2_itme_collectfagment_preriodicalfragment"
+            android:layout_toRightOf="@+id/new_periodical_laouts"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="·第132刊"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/info4_itme_collectfagment_preriodicalfragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/info3_itme_collectfagment_preriodicalfragment"
+            android:layout_toRightOf="@+id/new_periodical_laouts"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="·第wer刊"
+            android:textColor="@color/black"
+            android:textSize="10dp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/qqtopview" />
+</LinearLayout>

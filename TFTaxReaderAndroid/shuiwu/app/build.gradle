@@ -1,0 +1,77 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "io.dcloud.H5E4CA812"
+        minSdkVersion 22
+        targetSdkVersion 28
+        versionCode 19
+        versionName "1.19"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    configurations.all {
+        resolutionStrategy.force 'com.google.code.findbugs:jsr305:1.3.9'
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.navigation:navigation-fragment:2.1.0'
+    implementation 'androidx.navigation:navigation-ui:2.1.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.1.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+
+    implementation 'com.android.support:appcompat-v7:+'
+    implementation 'com.squareup.okhttp3:okhttp:4.8.1'
+    implementation 'com.google.code.gson:gson:2.8.2'
+    implementation 'com.iqiyi.xcrash:xcrash-android-lib:2.3.0'
+
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+    implementation 'com.jakewharton:butterknife:10.0.0'
+
+
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'com.android.support:support-v4:+'
+    implementation project(path: ':easynavigation')
+
+    implementation 'com.youth.banner:banner:+'
+    //noinspection GradleCompatible
+    implementation 'com.android.support:design:26.+'
+    implementation 'org.greenrobot:eventbus:3.0.0'
+    implementation 'com.contrarywind:Android-PickerView:3.2.7'
+    implementation files('libs/lkl-pay-sdk.aar')
+    implementation project(':android-pdf-viewer')
+
+    implementation 'com.zzhoujay.richtext:richtext:3.0.7'
+    implementation 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
+
+    implementation 'com.google.zxing:core:3.3.3'
+
+    implementation 'org.greenrobot:eventbus:3.1.1'
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@color/ffffff"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:id="@+id/phb_layout"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/phb_image"
+            android:layout_width="85dp"
+            android:layout_height="100dp"
+            android:src="@drawable/zgsw" />
+
+        <ImageView
+            android:id="@+id/phb_image_free"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/syfree" />
+
+        <TextView
+            android:id="@+id/phb_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/phb_image"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="中国税务"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+</RelativeLayout>

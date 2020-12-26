@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <io.dcloud.H5E4CA812.view.widget.listmovedeletbut.SwipeLayout
+        android:id="@+id/swipelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <include layout="@layout/item_shopping_car_child" />
+
+        <include layout="@layout/layout_collectfragment_article_delete" />
+
+    </io.dcloud.H5E4CA812.view.widget.listmovedeletbut.SwipeLayout>
+</LinearLayout>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_accont"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="账号:"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/essential_info_accont_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_accont"
+                    android:background="@null"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="(注：账户不可修改)"
+                android:textColor="@color/colorAccent" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_nickname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="昵称:"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/essential_info_nickname_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_nickname"
+                    android:background="@null"
+                    android:hint="请输入昵称"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="姓名:"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/essential_info_name_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_name"
+                    android:background="@null"
+                    android:hint="请输入姓名"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_sex"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="性别:"
+                    android:textSize="20sp" />
+
+                <RadioGroup
+                    android:id="@+id/essential_info_sex_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_sex"
+                    android:orientation="horizontal"
+                    android:padding="12dp">
+
+                    <RadioButton
+                        android:id="@+id/essential_info_sex_man"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="男"
+                        android:textSize="20sp" />
+
+                    <RadioButton
+                        android:id="@+id/essential_info_sex_female"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="女"
+                        android:textSize="20sp" />
+
+                    <RadioButton
+                        android:id="@+id/essential_info_sex_bm"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="保密"
+                        android:textSize="20sp" />
+                </RadioGroup>
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <RelativeLayout
+                android:id="@+id/essential_info_birthday_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_birthday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="出生日期:"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/essential_info_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_birthday"
+                    android:background="@null"
+                    android:focusable="false"
+                    android:hint="请输入出生日期"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/title_icon" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="手机号:"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/essential_info_phone_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_phone"
+                    android:background="@null"
+                    android:digits="1234567890"
+                    android:hint=""
+                    android:enabled="false"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <RelativeLayout
+                android:id="@+id/essential_info_address_layou"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/registeredtext_shape"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/essential_info_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="地区:"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/essential_info_address_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/essential_info_address"
+                    android:background="@null"
+                    android:enabled="true"
+                    android:focusable="false"
+                    android:hint="请选择地区"
+                    android:padding="15dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/qqtopview" />
+
+            <TextView
+                android:id="@+id/essential_info_address_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:layout_weight="1"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textSize="20sp"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/essential_info_reset"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_shape"
+                    android:text="重置"
+                    android:textColor="@color/ffffff"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/essential_info_determine"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/button_shape"
+                    android:text="确定"
+                    android:textColor="@color/ffffff"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
